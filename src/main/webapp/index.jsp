@@ -30,13 +30,6 @@
             </div>
         </section>
 
-        <section id="laptops" class="product-section">
-            <h2>Laptops</h2>
-            <div class="product-grid" id="laptop-products">
-                <!-- Laptop products will be inserted here by JavaScript -->
-            </div>
-        </section>
-
         <section id="clothes" class="product-section">
             <h2>Clothing</h2>
             <div class="product-grid" id="clothing-products">
